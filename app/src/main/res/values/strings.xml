@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ENVIOPOST1</string>
+    <string name="CLAVE">USER ID</string>
+    <string name="FECHA">DATE</string>
+    <string name="LECTOR">FINGERPRINT READER</string>
+    <string name="FECHA_LECTURA">READING DATE</string>
+    <string name="BTN_ENVIAR">SEND</string>
+
+    <string name="error1">USER ID IS REQUIRED</string>
+    <string name="error2">DATE IS REQUIRED</string>
+    <string name="error3">FINGERPRINT READER IS REQUIRED</string>
+    <string name="error4">READING DATE IS REQUIRED</string>
+    
+    <string name="data_sent">DATA SENT</string>
+
+
+</resources>

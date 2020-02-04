@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ENVIO DE DATOS 1</string>
+    <string name="CLAVE">CLAVE</string>
+    <string name="FECHA">FECHA</string>
+    <string name="LECTOR">LECTOR</string>
+    <string name="FECHA_LECTURA">FECHA DE LECTURA</string>
+    <string name="BTN_ENVIAR">ENVIAR</string>
+
+    <string name="error1">LA CLAVE ES REQUERIDA</string>
+    <string name="error2">LA FECHA ES REQUERIDA</string>
+    <string name="error3">EL LECTOR ES REQUERIDO</string>
+    <string name="error4">LA FECHA DE LECTURA ES REQUERIDA</string>
+
+    <string name="data_sent">DATOS ENVIADOS</string>
+</resources>
